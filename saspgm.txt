@@ -1,2 +1,3 @@
-sas
-sas1
+<<<<<<< HEAD
+team lead comment: correct syntax, go ahead
+>>>>>>> 37a5959446f0c2400c48dea33c82ef208e7db2ca
